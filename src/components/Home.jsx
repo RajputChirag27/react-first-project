@@ -32,14 +32,7 @@ const Home = () => {
           <h1>Who We Are?</h1>
           <p>
             We are a community of developers, designers, and product managers
-            who come together to solve problems and build products. Lorem ipsum
-            dolor sit, amet consectetur adipisicing elit. Incidunt ex commodi
-            debitis ipsa alias earum rem doloribus molestias, nobis facilis
-            repudiandae nihil architecto dicta, ratione temporibus. Tempore
-            ipsum eius accusamus. Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit. Provident reiciendis optio, numquam assumenda nisi
-            in quisquam aspernatur molestiae necessitatibus temporibus nam rerum
-            maxime commodi aperiam quod sit unde magni dolorem?
+            who come together to solve problems and build products. Welcome to our leading software company, where innovation meets excellence! We offer a comprehensive suite of services tailored to meet your development, testing, and designing needs. Our team of skilled professionals is proficient in creating cutting-edge software solutions, customized to your unique requirements. From web and mobile app development to robust backend systems, we've got you covered. Our rigorous testing methodologies ensure flawless performance and reliability. For stunning user interfaces and intuitive user experiences, our expert designers work tirelessly to bring your vision to life. Whether you're a startup or an enterprise, we are your trusted partner in driving digital transformation. Experience top-notch services with us today!
           </p>
         </div>
       </div>
